@@ -5,3 +5,5 @@
 - You must use your own copy of APKTool. 
 - The official JAR file can be acquired directly here: https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.11.1.jar
 - You can also visit the websites: https://apktool.org/ or https://github.com/iBotPeaches/Apktool
+- This is a wrapper for an existing java project.
+- I am not responsible for how anyone chooses to interact with APKTool.
